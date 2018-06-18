@@ -1,0 +1,10 @@
+{
+	"trackName": "{{TrackName}}",
+	"url": "{{TrackURL}}",
+	"artistName": "{{ArtistName}}",
+	"albumName": "{{AlbumName}}",
+	"coverURL": "{{AlbumCoverURL}}",
+	"playlistName": "{{PlaylistName}}",
+	"addedBy": "{{AddedBy}}",
+	"addedAt": "{{AddedAt}}"
+}
